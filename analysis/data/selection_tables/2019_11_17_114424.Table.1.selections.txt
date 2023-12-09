@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	1.858906547	2.125088001	0.000	22050.000	SAT.NA_take.off_04
+1	Spectrogram 1	1	1.858906547	2.125088001	0.000	22050.000	SAT.NA_take.off_04
+2	Waveform 1	1	2.443633020	2.757814408	0.000	22050.000	SAT.NA_take.off_04
+2	Spectrogram 1	1	2.443633020	2.757814408	0.000	22050.000	SAT.NA_take.off_04

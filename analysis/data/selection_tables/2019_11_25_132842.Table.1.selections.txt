@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	0.529170347	0.830503460	0.0	22050.0	SAT.01_U.perched_NA
+1	Spectrogram 1	1	0.529170347	0.830503460	0.0	22050.0	SAT.01_U.perched_NA

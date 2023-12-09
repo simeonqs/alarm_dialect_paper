@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS)	Annotation
+1	Waveform 1	1	633.545667669	633.900346873	0.0	22050.0	0.355	22050.0		NA_leaving.morning_NA
+1	Spectrogram 1	1	633.545667669	633.900346873	0.0	22050.0	0.355	22050.0	-54.4	NA_leaving.morning_NA
+2	Waveform 1	1	633.921521751	634.170326565	0.0	22050.0	0.249	22050.0		NA_leaving.morning_NA
+2	Spectrogram 1	1	633.921521751	634.170326565	0.0	22050.0	0.249	22050.0	-46.3	NA_leaving.morning_NA
+3	Waveform 1	1	634.186207724	634.466774855	0.0	22050.0	0.281	22050.0		NA_leaving.morning_NA
+3	Spectrogram 1	1	634.186207724	634.466774855	0.0	22050.0	0.281	22050.0	-44.2	NA_leaving.morning_NA
+4	Waveform 1	1	634.493243452	634.794985461	0.0	22050.0	0.302	22050.0		NA_leaving.morning_NA
+4	Spectrogram 1	1	634.493243452	634.794985461	0.0	22050.0	0.302	22050.0	-43.4	NA_leaving.morning_NA
+5	Waveform 1	1	758.336086474	758.764877750	0.0	22050.0	0.429	22050.0		NA_leaving.morning_NA
+5	Spectrogram 1	1	758.336086474	758.764877750	0.0	22050.0	0.429	22050.0	-50.0	NA_leaving.morning_NA
+6	Waveform 1	1	758.881339578	759.167200429	0.0	22050.0	0.286	22050.0		NA_leaving.morning_NA
+6	Spectrogram 1	1	758.881339578	759.167200429	0.0	22050.0	0.286	22050.0	-49.2	NA_leaving.morning_NA
+8	Waveform 1	1	1106.791096451	1107.161656813	0.0	22050.0	0.371	22050.0		NA_leaving.morning_02
+8	Spectrogram 1	1	1106.791096451	1107.161656813	0.0	22050.0	0.371	22050.0	-54.5	NA_leaving.morning_02

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	41.504486278	41.874044713	0.000	22050.000	NA_leaving.nest_02
+1	Spectrogram 1	1	41.504486278	41.874044713	0.000	22050.000	NA_leaving.nest_02
+2	Waveform 1	1	41.884603525	42.116897399	0.000	22050.000	NA_leaving.nest_02
+2	Spectrogram 1	1	41.884603525	42.116897399	0.000	22050.000	NA_leaving.nest_02
+3	Waveform 1	1	42.116897399	42.380867710	0.000	22050.000	NA_leaving.nest_02
+3	Spectrogram 1	1	42.116897399	42.380867710	0.000	22050.000	NA_leaving.nest_02
+4	Waveform 1	1	42.380867710	42.628999802	0.000	22050.000	NA_leaving.nest_02
+4	Spectrogram 1	1	42.380867710	42.628999802	0.000	22050.000	NA_leaving.nest_02
+5	Waveform 1	1	43.890777888	44.255056917	0.000	22050.000	NA_leaving.nest_02
+5	Spectrogram 1	1	43.890777888	44.255056917	0.000	22050.000	NA_leaving.nest_02

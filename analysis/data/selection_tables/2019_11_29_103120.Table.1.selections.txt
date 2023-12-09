@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	133.531084930	133.843008842	0.000	22050.000	NA_flight_01
+1	Spectrogram 1	1	133.531084930	133.843008842	0.000	22050.000	NA_flight_01

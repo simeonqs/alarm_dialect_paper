@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	51.729358691	52.010096448	0.000	22050.000	u.L25_foraging.tree_NA
+1	Spectrogram 1	1	51.729358691	52.010096448	0.000	22050.000	u.L25_foraging.tree_NA
+3	Waveform 1	1	99.831933610	100.082045430	0.000	22050.000	u.L25_foraging.tree_NA
+3	Spectrogram 1	1	99.831933610	100.082045430	0.000	22050.000	u.L25_foraging.tree_NA

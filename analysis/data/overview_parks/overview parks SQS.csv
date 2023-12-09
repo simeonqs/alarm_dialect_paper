@@ -1,0 +1,26 @@
+park;park_shorthand;city;notes;nr_mornings;nr_evenings;nr_midday;nr_colonies_recorded;nr_foraging_ground;nr_foraging_tree;nr_gather;nr_fligth;nr_solo;grass_present;other_species;park_type;palms;pine;decidious;fruit_decidious;fruit_palms;lat;long
+Parc Cental de Nous Barris;NB;Barcelona;;2;1;0;3;6;2;5;10;1;1;rose ringed;buildings, grass, playgrounds, trees, big;1;1;1;1;1;41,436426;2,166928
+Parc de la Ciutadella;CP;Barcelona;;2;2;2;7;10;10;15;5;3;1;rose ringed;all, big;1;1;1;1;1;41,387712;2,186004
+Parc Grande de Sant Marti;SM;Barcelona;;1;0;0;2;1;1;3;10;0;1;rose ringed;all, small;1;1;1;1;0;41,419591;2,198188
+Placa de la Verneda;PV;Barcelona;;0;1;0;2;;;;;;1;rose ringed;small;1;1;1;1;1;41,423558;2,20063
+Jardin del Bastaix Guinardi;JB;Barcelona;;1;0;0;1;1;1;3;1;0;0;starlings;small, water, gravel, many dogs;1;1;1;1;0;41,409652;2,168604
+Parc del Nen de la Rutlla;NR;Barcelona;;0;0;1;0;1;0;2;0;0;1;rose ringed;front to other park;1;1;1;0;0;41,419467;2,169841
+Jardin de la Maternitat;JM;Barcelona;;1;1;0;2;5;1;5;5;0;1;rose ringed;big park, but quiet in most ;1;1;1;1;1;41,382721;2,124986
+Jardins de les Infantes;JI;Barcelona;;0;0;1;2;0;0;0;0;0;;;small playground;1;1;1;0;0;;
+Parque del Clot;CL;Barcelona;;;;;;;;;;;1;rose ringed;traffic, playgrounds, concrete, very few parrots;1;1;1;1;0;41,408192;2,190493
+Lago Casa del Campo;CC;Madrid;mapped clusters;2;1;1;3;0;0;3;5;1;1;rose ringed, starlings;huge, lake, sub-zero;0;1;1;0;0;40,419786;-3,732985
+Parque de Berlin;PB;Madrid;mapped completely, recordings poor due to noice;2;2;1;3;3;1;2;4;0;1;;dogs, playground, traffic;0;1;1;0;0;40,450279;-3,675855
+Parque Infantil Portalegre;IP;Madrid;mapped only nest;1;1;0;1;0;0;0;0;0;1;starlings;very small, playground;0;1;1;0;0;40,389213;-3,724997
+Parque Emperatriz Maria de Austria;MA;Madrid;too big;0;0;1;2;3;0;2;2;1;1;rose ringed, starlings;huge, only did part;0;1;1;;;40,377786;-3,722671
+Parque Azorin;PA;Madrid;mapped completely, good recordings;1;1;1;4;4;1;6;10;1;1;;;0;1;1;1;0;40,390259;-3,655392
+Parque de el Ritero;ER;Madrid;too big, few birds;0;0;1;0;3;0;3;3;0;1;starlings;huge, quiet, wet;1;1;1;1;0;40,414755;-3,683416
+Quintos de Molinos;QM;Madrid;mapped, very few nests;0;0;1;1;0;0;0;0;0;1;starlings;big, quiet, lot of gardening;1;1;1;1;0;40,444222;-3,628582
+National Garden;NG;Athens;;1;2;1;5;0;3;3;8;2;1;rose ringed;huge, zoo, lot's of people play grounds, bit dark;1;1;1;1;1;37,972755;23,737402
+Oluf Palme Playground;OP;Athens;;1;1;2;1;0;0;1;1;0;0;rose ringed;small playground, grassy gravel, few dogs;0;1;0;0;0;37,974833;23,760065
+Alsos Ilision;AI;Athens;;0;1;0;3;0;0;0;0;0;1;rose ringed;dark, big, few more open areas;0;1;1;0;0;37,974424;23,757184
+Thissio Park;TH;Athens;;0;0;1;1;1;0;0;1;0;1;rose ringed;very small park, only one nest;0;1;1;0;0;37,976341;23,719831
+Gendarmerie School Park;GS;Athens;;1;1;2;7;0;2;5;8;2;1;;relatively open, small zoo, wild dogs, many nests!;0;1;1;1;0;37,988841;23,771038
+Evangelismos Park;EP;Athens;;0;0;0;0;0;0;0;0;0;1;;very small, open;0;1;1;1;0;37,97673;23,747848
+Parque Alfredo Kraus;AK;Madrid;open, few nests, little activity;;;;;;;;;;1;;;0;1;1;1;0;40,470617;-3,640256
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	13.945326344	14.527328699	0.000	22050.000	sqs.01_building.nest_NA
+1	Spectrogram 1	1	13.945326344	14.527328699	0.000	22050.000	sqs.01_building.nest_NA

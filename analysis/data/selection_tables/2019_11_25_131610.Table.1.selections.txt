@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	8.237650577	8.688894312	0.0	22050.0	SAT.01_perched_NA
+1	Spectrogram 1	1	8.237650577	8.688894312	0.0	22050.0	SAT.01_perched_NA
+2	Waveform 1	1	11.404993778	11.809070962	0.0	22050.0	SAT.01_perched_NA
+2	Spectrogram 1	1	11.404993778	11.809070962	0.0	22050.0	SAT.01_perched_NA
+3	Waveform 1	1	17.206562561	17.458804682	0.0	22050.0	SAT.01_perched_NA
+3	Spectrogram 1	1	17.206562561	17.458804682	0.0	22050.0	SAT.01_perched_NA
+4	Waveform 1	1	22.217119644	22.562421965	0.0	22050.0	SAT.01_perched_NA
+4	Spectrogram 1	1	22.217119644	22.562421965	0.0	22050.0	SAT.01_perched_NA

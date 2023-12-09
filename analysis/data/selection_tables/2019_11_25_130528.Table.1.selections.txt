@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	0.278510508	0.511148697	0.0	22050.0	SAT.01_flight_01
+1	Spectrogram 1	1	0.278510508	0.511148697	0.0	22050.0	SAT.01_flight_01
+2	Waveform 1	1	2.099113201	2.395676656	0.0	22050.0	
+2	Spectrogram 1	1	2.099113201	2.395676656	0.0	22050.0	

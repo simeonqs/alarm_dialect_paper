@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Waveform 1	1	9.406479338	9.873681337	0.000	22050.000	sqs.01_u.taking.flight_01
+1	Spectrogram 1	1	9.406479338	9.873681337	0.000	22050.000	sqs.01_u.taking.flight_01
+2	Waveform 1	1	10.179381411	10.519689040	0.000	22050.000	sqs.01_u.taking.flight_01
+2	Spectrogram 1	1	10.179381411	10.519689040	0.000	22050.000	sqs.01_u.taking.flight_01
