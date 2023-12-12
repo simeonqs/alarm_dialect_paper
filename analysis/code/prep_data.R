@@ -23,8 +23,9 @@ path_selection_tables = 'analysis/data/selection_tables'
 path_sorted_spectrograms = 'analysis/data/sorted_spectrograms_sqs'
 path_overview_recordings = 'analysis/data/overview_recordings'
 path_overview_parks = 'analysis/data/overview_parks'
-path_audio = '/media/au472091/backup_1/audio_alarm_dialect_paper/all_audio'
+path_audio = '/home/au472091/Documents/large_data/audio_alarm_dialect_paper'
 path_combined_selection_tables = 'analysis/results/selection_tables.RData'
+path_waves = 'analysis/results/waves.RData'
 
 # Load functions
 .functions = sapply(list.files(path_functions, 
@@ -56,12 +57,14 @@ sorted_fs = sorted |> basename() |> str_remove('.wav') |> str_remove('.pdf')
 rownames(selection_tables) = selection_tables$fs
 selection_tables = selection_tables[sorted_fs,]
 
-# # Load waves
-# waves = lapply(seq_len(nrow(selection_tables)), function(i)
-#   readWave(sprintf('%s/%s.wav', path_audio, selection_tables$file[i]),
-#            from = selection_tables$Begin.Time..s.,
-#            to = selection_tables$End.Time..s.,
-#            units = 'seconds'))
+# Load waves
+waves = lapply(seq_len(nrow(selection_tables)), function(i)  
+  readWave(sprintf('%s/%s.wav', path_audio, selection_tables$file[i]),
+           from = selection_tables$Begin.Time..s.[i],
+           to = selection_tables$End.Time..s.[i],
+           units = 'seconds')
+  )
+names(waves) = selection_tables$fs
 
 # Find other info
 files = selection_tables$fs |> strsplit('-') |> sapply(`[`, 1)
@@ -85,5 +88,6 @@ selection_tables$id = sapply(selection_tables$fs, function(fs){
   return(paste(file, id, sep = '_'))
 }) |> as.character()
 
-# Save selection_tables
+# Save 
+save(waves, file = path_waves)
 save(selection_tables, file = path_combined_selection_tables)
