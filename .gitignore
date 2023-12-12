@@ -4,3 +4,5 @@
 .Ruserdata
 analysis/data/sorted_spectrograms_sqs
 analysis/code/m_4
+analysis/results/waves.RData
+analysis/results/sensitivity_analysis
