@@ -29,6 +29,13 @@ load(path_combined_selection_tables)
 
 # Run simulations
 set.seed(1)
+run.clean.simulation(selection_tables = selection_tables,
+                     path_model = path_model,
+                     path_out = path_out,
+                     sd_city = 0.001,
+                     sd_park = 0.001,
+                     sd_ind = 1,
+                     sd_obs = 1)
 for(lambda_rerec in seq(1, 2, 0.25))
   for(p_next_chunk in seq(0, 0.7, 0.1))
     run.noisy.simulation(selection_tables = selection_tables,
